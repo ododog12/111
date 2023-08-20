@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="397dab84-24bb-4dc3-bdd0-30af739cc36c" name="Changes" comment="[new] 새롭게 시작하자">
+    <list default="true" id="397dab84-24bb-4dc3-bdd0-30af739cc36c" name="Changes" comment="[modify] 좀 다름">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +22,18 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="171a749e-bf2e-4297-8dbd-511f25a7764e" />
+        <option name="url" value="https://github.com/ododog12/111.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -65,7 +78,7 @@
       <updated>1692529754113</updated>
       <workItem from="1692529755266" duration="3079000" />
       <workItem from="1692536111151" duration="378000" />
-      <workItem from="1692536541862" duration="125000" />
+      <workItem from="1692536541862" duration="741000" />
     </task>
     <task id="LOCAL-00001" summary="[modify] index add text">
       <created>1692530494450</created>
@@ -88,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692536607117</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="[modify] 좀 다름">
+      <created>1692536991452</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692536991452</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +140,7 @@
     <MESSAGE value="[modify] index add text" />
     <MESSAGE value="[modify] 새로" />
     <MESSAGE value="[new] 새롭게 시작하자" />
-    <option name="LAST_COMMIT_MESSAGE" value="[new] 새롭게 시작하자" />
+    <MESSAGE value="[modify] 좀 다름" />
+    <option name="LAST_COMMIT_MESSAGE" value="[modify] 좀 다름" />
   </component>
 </project>
