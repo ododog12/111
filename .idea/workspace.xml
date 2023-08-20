@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="397dab84-24bb-4dc3-bdd0-30af739cc36c" name="Changes" comment="[modify] 좀 다름">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="397dab84-24bb-4dc3-bdd0-30af739cc36c" name="Changes" comment="[modify] 추가작업">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +77,7 @@
       <updated>1692529754113</updated>
       <workItem from="1692529755266" duration="3079000" />
       <workItem from="1692536111151" duration="378000" />
-      <workItem from="1692536541862" duration="741000" />
+      <workItem from="1692536541862" duration="844000" />
     </task>
     <task id="LOCAL-00001" summary="[modify] index add text">
       <created>1692530494450</created>
@@ -108,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692536991452</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="[modify] 추가작업">
+      <created>1692537346814</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692537346814</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +147,7 @@
     <MESSAGE value="[modify] 새로" />
     <MESSAGE value="[new] 새롭게 시작하자" />
     <MESSAGE value="[modify] 좀 다름" />
-    <option name="LAST_COMMIT_MESSAGE" value="[modify] 좀 다름" />
+    <MESSAGE value="[modify] 추가작업" />
+    <option name="LAST_COMMIT_MESSAGE" value="[modify] 추가작업" />
   </component>
 </project>
