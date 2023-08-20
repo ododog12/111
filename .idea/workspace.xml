@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="397dab84-24bb-4dc3-bdd0-30af739cc36c" name="Changes" comment="[modify] 새로">
-      <change beforePath="$PROJECT_DIR$/a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b" beforeDir="false" />
+    <list default="true" id="397dab84-24bb-4dc3-bdd0-30af739cc36c" name="Changes" comment="[new] 새롭게 시작하자">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sub.html" beforeDir="false" afterPath="$PROJECT_DIR$/sub.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +65,7 @@
       <updated>1692529754113</updated>
       <workItem from="1692529755266" duration="3079000" />
       <workItem from="1692536111151" duration="378000" />
-      <workItem from="1692536541862" duration="23000" />
+      <workItem from="1692536541862" duration="125000" />
     </task>
     <task id="LOCAL-00001" summary="[modify] index add text">
       <created>1692530494450</created>
@@ -84,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692535880890</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[new] 새롭게 시작하자">
+      <created>1692536607117</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692536607117</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +119,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[modify] index add text" />
     <MESSAGE value="[modify] 새로" />
-    <option name="LAST_COMMIT_MESSAGE" value="[modify] 새로" />
+    <MESSAGE value="[new] 새롭게 시작하자" />
+    <option name="LAST_COMMIT_MESSAGE" value="[new] 새롭게 시작하자" />
   </component>
 </project>
